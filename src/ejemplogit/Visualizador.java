@@ -6,7 +6,7 @@
 package ejemplogit;
 
 /**
- *
+ * Esra es una clase para visualizar resultados
  * @author jedt96
  */
 public class Visualizador {
